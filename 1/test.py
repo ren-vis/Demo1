@@ -8,3 +8,4 @@ import os
 import pandas
 
 print(os.environ["myname"])
+print(os.environ["mysecret"])
