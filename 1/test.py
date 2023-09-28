@@ -6,4 +6,4 @@ print("Result is ",c)
 
 import os
 
-print(os.environ("myname"))
+print(os.environ["myname"])
